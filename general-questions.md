@@ -10,6 +10,3 @@
 * How's your life after GA (Any bootcamp, online course, etc.,) ? Is there anything that you're working on now?
 * How do you find React?
 * What kind of technology are you excited to learn about?
-
-## Questions to ask your interviewer:
-* Is there anything that you would like to ask me?
